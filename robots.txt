@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: depozit-ot-20-rubley-depozit.github.io
+Sitemap: https://depozit-ot-20-rubley-depozit.github.io/sitemap.xml
